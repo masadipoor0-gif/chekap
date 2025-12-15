@@ -96,7 +96,7 @@ export default function Landing() {
             className="relative"
           >
             <div className="relative rounded-[2.5rem] overflow-hidden shadow-2xl border-4 border-white bg-slate-100 aspect-[4/3]">
-                 <img src="/Picture1.png" alt="پزشک در حال چکاپ در منزل" className="w-full h-full object-cover" />
+                 <img src="/Picture2.png" alt="پزشک در حال چکاپ در منزل" className="w-full h-full object-cover" />
                  
                  {/* Floating Card: Heart Rate */}
                  <motion.div 
