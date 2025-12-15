@@ -339,7 +339,7 @@ export default function Landing() {
             همین حالا اولین پروفایل سلامت خود را ایجاد کنید و از وضعیت جسمانی خود باخبر شوید. پیشگیری، همیشه ارزان‌تر از درمان است.
           </p>
           <div className="flex flex-col sm:flex-row justify-center gap-4 relative z-10">
-              <button onClick={() => navigate("/register")} className="bg-white cursor-pointer text-blue-700 px-8 py-4 rounded-2xl text-lg font-bold hover:bg-slate-50 hover:scale-105 transition-all shadow-xl">
+              <button onClick={() => navigate("/request")} className="bg-white cursor-pointer text-blue-700 px-8 py-4 rounded-2xl text-lg font-bold hover:bg-slate-50 hover:scale-105 transition-all shadow-xl">
                 درخواست چکاپ
               </button>
               <button className="bg-blue-700/50 backdrop-blur border border-white/30 cursor-pointer text-white px-8 py-4 rounded-2xl text-lg font-bold hover:bg-blue-700 transition-all">
