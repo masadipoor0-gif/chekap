@@ -96,7 +96,7 @@ export default function Landing() {
             className="relative"
           >
             <div className="relative rounded-[2.5rem] overflow-hidden shadow-2xl border-4 border-white bg-slate-100 aspect-[4/3]">
-                 <img src="/images/hero-doctor-home.jpg" alt="پزشک در حال چکاپ در منزل" className="w-full h-full object-cover" />
+                 <img src="/Picture1.png" alt="پزشک در حال چکاپ در منزل" className="w-full h-full object-cover" />
                  
                  {/* Floating Card: Heart Rate */}
                  <motion.div 
@@ -195,7 +195,7 @@ export default function Landing() {
                 >
                     {/* Mockup Image */}
                     <div className="relative rounded-3xl overflow-hidden shadow-2xl border border-slate-200 bg-slate-50 aspect-video flex items-center justify-center">
-                         <img src="/images/dashboard-mockup.png" alt="داشبورد پرونده پزشکی" className="object-cover w-full h-full" />
+                         <img src="/pic1.jpg" alt="داشبورد پرونده پزشکی" className="object-cover w-full h-full" />
                          {/* Optional Overlay UI Element */}
                          <div className="absolute bottom-6 right-6 bg-white p-4 rounded-xl shadow-lg flex gap-4 items-center animate-bounce-slow">
                              <div className="h-2 w-20 bg-gray-100 rounded-full overflow-hidden">

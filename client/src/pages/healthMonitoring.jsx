@@ -2,7 +2,7 @@ import React from 'react';
 import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
 
-export default function HealthRecord() {
+export default function HealthMonitoring() {
   return (
     <div dir='rtl' className="min-h-screen bg-slate-50 pt-24">
       <Navbar />
